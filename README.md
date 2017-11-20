@@ -1,6 +1,6 @@
 ## DigitRecognition
 Classify handwritten digits using TensorFlow.  
-This is project that I used to learn TensorFlow basic
+This is project that I used to learn TensorFlow basics.
 ### Overview
 MNIST is a simple computer vision dataset. It consists of images of handwritten digits.
 
