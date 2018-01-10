@@ -17,4 +17,4 @@ To tally up the evidence that a given image is in a particular class, we do a we
 
 #### CNN
 
-NN wiht Softmax can get 92% accuracy on MNIST, (which is not bad?).  It is way worse than the state of art. we'll fix that, jumping from a very simple model to something moderately sophisticated: a small convolutional neural network. This will get us to around 99.2% accuracy.
+NN wiht Softmax can get 92% accuracy on MNIST, (which is not bad?).  It is way worse than the state of art. we'll fix that, jumping from a very simple model to something moderately sophisticated: a small convolutional neural network. This will get us to around 99.2% accuracy. Later, we will also experiment on a larger CNN and investigate the effect of Batch Normalization.
